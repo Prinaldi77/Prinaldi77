@@ -59,12 +59,12 @@ I am **Prinaldi**, a passionate and adaptive **Fullstack & Mobile Developer** de
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PrinaldiDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinaldiDev&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prinaldi77&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prinaldi77&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrinaldiDev&theme=radical&hide_border=true" alt="PrinaldiDev Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prinaldi77&theme=radical&hide_border=true" alt="PrinaldiDev Streak" />
 </div>
 
 ---
@@ -73,8 +73,8 @@ I am **Prinaldi**, a passionate and adaptive **Fullstack & Mobile Developer** de
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinaldiDev/PrinaldiDev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinaldiDev/PrinaldiDev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrinaldiDev/PrinaldiDev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
