@@ -1,7 +1,7 @@
 <!-- HEADER: Typing SVG Animation -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+PrinaldiDev;Fullstack+Web+Developer;Mobile+App+Developer;Always+Learning+%26+Building!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Prinaldi77;Fullstack+Web+Developer;Mobile+App+Developer;Always+Learning+%26+Building!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -23,7 +23,6 @@ I am **Prinaldi**, a passionate and adaptive **Fullstack & Mobile Developer** de
 
 ### 🌐 Connect With Me
 
-<!-- Ganti URL di dalam href="..." dengan link asli milikmu -->
 <p align="left">
   <a href="https://www.prinaldi-porto.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" />
@@ -64,7 +63,7 @@ I am **Prinaldi**, a passionate and adaptive **Fullstack & Mobile Developer** de
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prinaldi77&theme=radical&hide_border=true" alt="PrinaldiDev Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prinaldi77&theme=radical&hide_border=true" alt="Prinaldi77 Streak" />
 </div>
 
 ---
@@ -73,8 +72,8 @@ I am **Prinaldi**, a passionate and adaptive **Fullstack & Mobile Developer** de
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PrinaldiDev/Prinaldi77/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prinaldi77/Prinaldi77/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prinaldi77/Prinaldi77/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prinaldi77/Prinaldi77/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
